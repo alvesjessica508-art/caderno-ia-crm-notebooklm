@@ -84,7 +84,13 @@ Foi proposta uma IA capaz de qualificar leads, sugerir ações comerciais e prev
 **Automação:** Execução automática de processos.
 
 **IA Generativa:** Inteligência Artificial capaz de gerar conteúdo e respostas.
+## 🖼️ Evidências do Projeto
 
+### NotebookLM em uso
+![NotebookLM](assets/projeto%203.png)
+
+### Relatório / Guia de Estudo
+![Relatório](assets/projeto%204.png)
 ---
 
 ## 🚀 Conclusão
