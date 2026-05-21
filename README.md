@@ -86,6 +86,8 @@ Foi proposta uma IA capaz de qualificar leads, sugerir ações comerciais e prev
 **IA Generativa:** Inteligência Artificial capaz de gerar conteúdo e respostas.
 ## 🖼️ Evidências do Projeto
 
+## 🖼️ Evidências do Projeto
+
 ### NotebookLM em uso
 ![NotebookLM](assets/projeto%203.png)
 
